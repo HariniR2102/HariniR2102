@@ -78,7 +78,7 @@ OOP · Data Structures (Foundations) · System Design Fundamentals
 
 ## 📫 Reach Me  
 - **Email:** Harinir933@mail.com  
-- **LinkedIn:** https://linkedin.com  
+- **LinkedIn:** https://www.linkedin.com/in/harini-r-464555350/ 
 - **Portfolio:** https://portfolio-harini-gamma.vercel.app  
 
 ---
