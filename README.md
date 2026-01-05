@@ -1,4 +1,3 @@
-Here’s a refined and simplified version of your profile, Harini — it keeps everything professional, clear, and easy to read while removing the *MegamInge* project for a cleaner layout.  
 
 ***
 
