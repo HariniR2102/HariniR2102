@@ -68,9 +68,6 @@ I work at the intersection of **applied machine learning**, **scalable backend d
 
 ***
 
-### ⚡ Fun Fact  
-I enjoy translating **research papers into real systems** — models are meaningful only when they work in the real world.  
+
 
 ***
-
-Would you like me to format this version specifically for a **LinkedIn “About” section**, a **personal portfolio page**, or a **resume summary**?
